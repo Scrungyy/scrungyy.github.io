@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(30, 32, 48);
+    font-family: monospace;font-size: large;
+}
+.divcenter {
+    text-align: center;
+    border:3px rgb(110, 115, 141) solid;
+    border-radius: 25px;
+    margin: 5% 10% 5% 10%;
+    background-color: rgb(36, 39, 58);
+    color: rgb(202, 211, 245);
+    padding-left: 10%; padding-right: 10%; padding-bottom: 5px;
+}
+footer {
+    font-family: monospace;font-size: large;
+    text-align: center;
+    color: rgb(202, 211, 245);
+    background-color: rgb(24, 25, 38);
+    border: 5px transparent solid;
+    margin: 5%  10% 5% 10%;
+    border-radius: 25px;
+}
+.topnav {
+    background-color: rgb(36, 39, 58);
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    color: rgb(202, 211, 245);
+    text-align: center;
+    padding: 14px 16px;
+    font-family: monospace;
+    transition: background-color 1s;
+}
+.topnav a:hover {
+    /* background-color: rgb(24, 25, 38); */
+    background-color: rgb(24, 25, 38);
+}
+a {
+    color: rgb(137, 180, 250);
+}
+.logoholder {
+    background-color: rgb(24, 25, 38);
+    text-align: left;
+    color: rgb(202, 211, 245);
+    font-family: monospace;
+    border: 5px transparent solid;
+    margin: 15px;
+    border-radius: 25px;
+    padding-left: 5px;
+    position: relative;
+}
+.br {
+    line-height: 25px;
+}
+.blogdiv {
+    background-color: rgb(24, 25, 38);
+    text-align: center;
+    color: rgb(202, 211, 245);
+    font-family: monospace;
+    border: 5px transparent solid;
+    margin: 15px;
+    border-radius: 25px;
+    padding: 10px;
+    position: relative;
+}
